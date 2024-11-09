@@ -1,8 +1,6 @@
 # Conference Website Manual for Future Organizers
 
 ## 1. Sign In to the GitHub Account
-- **Account Name**: [Fill in your account name here]
-- **Password**: [Fill in your password here]
 
 
 ## 2. Create a New Repository
