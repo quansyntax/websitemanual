@@ -4,7 +4,6 @@
 - **Account Name**: [Fill in your account name here]
 - **Password**: [Fill in your password here]
 
-> **Note**: Use a password manager like **Bitwarden**, **1Password**, or **LastPass** to securely store your credentials.
 
 ## 2. Create a New Repository
 1. Click on the "+" icon in the upper right corner and select **"New repository"**.
@@ -49,13 +48,13 @@ Clone the repository to your local machine using Git:
      ```
 
 4. **Referencing Previous Sites**:
-   - Check previous conference websites like **Quasy** and **Quasy2025**.
+   - Check previous conference websites like [quasy](https://github.com/quansyntax/quasy) and [quasy2025](https://github.com/quansyntax/quasy2025).
    - Include basic files like `index.html` and `style.css`.
-   - Additional pages can include `call-for-paper.html`, `committee.html`, etc., as shown in **Quasy2025**.
+   - Additional pages can include `call-for-paper.html`, `committee.html`, etc., as shown in [quasy2025](https://github.com/quansyntax/quasy2025).
 
 ## 5. Add Logo and Branding
 1. **Logo files**:
-   - The **Quasy** logo is `logo2025.png`, found in the `images` folder.
+   - The **Quasy** logo is `logo2025.png`, found in the [images](https://github.com/quansyntax/quasy2025) folder.
    - The SVG version is `logo2025.svg`.
 
 2. **Modifying the logo**:
@@ -66,7 +65,7 @@ Clone the repository to your local machine using Git:
    - Color for power law and syntactic trees: `rgb(7, 149, 166)`
 
 4. **Fonts**:
-   - Logo fonts are inside the `fonts` folder.
+   - Logo fonts are inside the [fonts](https://github.com/quansyntax/quasy2025/tree/main/images/fonts) folder.
 
 ## 6. Ensure Mobile Responsiveness
 Include the following code snippet in your `index.html` to make the site mobile-friendly:
